@@ -9,3 +9,7 @@ class RedditbotSpider(scrapy.Spider):
 
     def parse(self, response):
         pass
+  
+def summing(a,b)
+     a+b = c
+    
