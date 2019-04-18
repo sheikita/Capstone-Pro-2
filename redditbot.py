@@ -13,3 +13,6 @@ class RedditbotSpider(scrapy.Spider):
 def summing(a,b)
      a+b = c
     
+def product(a,b)
+ a * b = c
+ return c 
